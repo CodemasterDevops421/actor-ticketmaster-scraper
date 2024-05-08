@@ -1,4 +1,5 @@
 
+
 ```markdown
 # Ticketmaster Event Finder
 
@@ -74,5 +75,9 @@ All scraped event data is stored in a structured format in the dataset associate
 - **AI Newsletter**: [Subscribe to our newsletter](https://sendfox.com/quicklifesolutions)
 - **Free Consultation**: [Book a free consultation call](https://tidycal.com/quicklifesolutions/free-consultation)
 - **More Tools**: [Explore our Apify actors](https://apify.com/dainty_screw)
-```
 
+### Support:
+
+- **Discord**: [Raise a Support ticket here](https://discord.gg/2WGj2PDmHb)
+- **Contact Email**: [codemasterdevops@gmail.com](mailto:codemasterdevops@gmail.com)
+```
